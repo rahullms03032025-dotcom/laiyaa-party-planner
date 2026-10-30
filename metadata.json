@@ -1,0 +1,6 @@
+{
+  "name": "Laiyaa Party Planner",
+  "description": "Full-stack coordination app for the 7-member Laiyaa Bhelpuri party at LMS Certifications Private Limited: home potluck materials, snack preparation duties, photo gallery, member chatbot, and password-protected admin tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
